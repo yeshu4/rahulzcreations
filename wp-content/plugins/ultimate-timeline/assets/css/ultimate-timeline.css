@@ -1,0 +1,43 @@
+.custom_timeline_icon{
+	font-size:32px;
+}
+
+.custom_date_side_meta_box{
+	color:red;
+	font-weight:bold;
+}
+
+.custom_single_img_view{
+	height: 400px;
+	width: 500px;
+	margin-bottom: 20px;
+}
+
+.Zebra_DatePicker .dp_daypicker .myclass {
+	background: #E8E8E8 url('../images/close.png') no-repeat center center;
+	text-indent: -9999px;
+}
+
+.bootstrap .Zebra_DatePicker .dp_daypicker td.myclass_disabled {
+	background: #FFF url('../images/close.png') no-repeat center center;
+	text-indent: -9999px;
+}
+
+.top {
+	display: block;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 33px;
+}
+
+.top a {
+	background: #FFF;
+	position: relative;
+	top: 8px;
+	padding-right: 10px;
+}
+
+blockquote.bg-warning.Zebra_Pin {
+	border-bottom: 1px solid #ccc;
+	box-shadow: 0 12px 6px -6px rgba(0, 0, 0, .1);
+	transition: box-shadow .25s linear;
+}
